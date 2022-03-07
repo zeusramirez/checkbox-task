@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  /* background-color: #282c34; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top:auto;
+  font-size: calc(10px + 2vmin);
+}
+
+.container {
+  margin: auto;
+  margin-top:auto;
+  display: grid;
+}
+.col{
+  border: 1px solid black;
+}
+.main{
+  margin: auto;
+  justify-content:center
+}
+.you-checkbox{
+  font-size: 1rem;
+  color: gray;
+}
+.container input{
+  margin-top:50%
+}
